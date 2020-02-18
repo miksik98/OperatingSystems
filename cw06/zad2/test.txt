@@ -1,0 +1,12 @@
+ECHO message1
+FRIENDS 0 1 2
+DEL 0
+2FRIENDS message2
+DEL 1
+2FRIENDS message3
+ADD 1
+2FRIENDS message4
+2ALL message5
+2ONE 0 message6
+LIST
+STOP

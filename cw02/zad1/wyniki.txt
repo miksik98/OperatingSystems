@@ -1,0 +1,108 @@
+TESTS FOR SIZE = 1, nr of records: 3000
+System copy test
+User: 0.000000 s System: 0.010000 s
+Library copy test
+User: 0.000000 s System: 0.000000 s
+System sort test
+User: 1.340000 s System: 3.910000 s
+Library sort test
+User: 1.080000 s System: 1.610000 s
+TESTS FOR SIZE = 1, nr of records: 5000
+System copy test
+User: 0.000000 s System: 0.010000 s
+Library copy test
+User: 0.000000 s System: 0.000000 s
+System sort test
+User: 3.680000 s System: 10.220000 s
+Library sort test
+User: 2.970000 s System: 3.900000 s
+TESTS FOR SIZE = 4, nr of records: 3000
+System copy test
+User: 0.000000 s System: 0.010000 s
+Library copy test
+User: 0.000000 s System: 0.000000 s
+System sort test
+User: 1.360000 s System: 3.730000 s
+Library sort test
+User: 1.060000 s System: 1.650000 s
+TESTS FOR SIZE = 4, nr of records: 5000
+System copy test
+User: 0.000000 s System: 0.010000 s
+Library copy test
+User: 0.000000 s System: 0.000000 s
+System sort test
+User: 3.850000 s System: 10.980000 s
+Library sort test
+User: 3.610000 s System: 5.200000 s
+TESTS FOR SIZE = 512, nr of records: 3000
+System copy test
+User: 0.000000 s System: 0.010000 s
+Library copy test
+User: 0.000000 s System: 0.000000 s
+System sort test
+User: 1.710000 s System: 6.520000 s
+Library sort test
+User: 1.730000 s System: 3.470000 s
+TESTS FOR SIZE = 512, nr of records: 5000
+System copy test
+User: 0.000000 s System: 0.020000 s
+Library copy test
+User: 0.000000 s System: 0.010000 s
+System sort test
+User: 4.140000 s System: 12.640000 s
+Library sort test
+User: 4.000000 s System: 7.980000 s
+TESTS FOR SIZE = 1024, nr of records: 3000
+System copy test
+User: 0.000000 s System: 0.000000 s
+Library copy test
+User: 0.000000 s System: 0.000000 s
+System sort test
+User: 1.410000 s System: 4.690000 s
+Library sort test
+User: 1.750000 s System: 3.730000 s
+TESTS FOR SIZE = 1024, nr of records: 5000
+System copy test
+User: 0.000000 s System: 0.020000 s
+Library copy test
+User: 0.000000 s System: 0.010000 s
+System sort test
+User: 3.860000 s System: 13.460000 s
+Library sort test
+User: 4.400000 s System: 9.970000 s
+TESTS FOR SIZE = 4096, nr of records: 3000
+System copy test
+User: 0.000000 s System: 0.020000 s
+Library copy test
+User: 0.000000 s System: 0.020000 s
+System sort test
+User: 1.390000 s System: 8.460000 s
+Library sort test
+User: 2.730000 s System: 9.730000 s
+TESTS FOR SIZE = 4096, nr of records: 5000
+System copy test
+User: 0.000000 s System: 0.030000 s
+Library copy test
+User: 0.010000 s System: 0.040000 s
+System sort test
+User: 3.810000 s System: 22.700000 s
+Library sort test
+User: 7.420000 s System: 23.720000 s
+TESTS FOR SIZE = 8196, nr of records: 3000
+System copy test
+User: 0.000000 s System: 0.030000 s
+Library copy test
+User: 0.010000 s System: 0.050000 s
+System sort test
+User: 1.420000 s System: 12.660000 s
+Library sort test
+User: 3.930000 s System: 14.420000 s
+TESTS FOR SIZE = 8196, nr of records: 5000
+System copy test
+User: 0.000000 s System: 0.050000 s
+Library copy test
+User: 0.010000 s System: 0.130000 s
+System sort test
+User: 4.060000 s System: 35.140000 s
+Library sort test
+User: 10.880000 s System: 42.160000 s

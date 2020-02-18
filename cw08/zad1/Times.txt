@@ -1,0 +1,106 @@
+
+1 thread
+Thread 139904768833280 worked 0.105318 seconds 
+
+2 threads
+Thread 140222843528960 worked 0.121306 seconds 
+Thread 140222835136256 worked 0.128044 seconds 
+
+4 threads
+Thread 139951402694400 worked 0.159068 seconds 
+Thread 139951394301696 worked 0.160046 seconds 
+Thread 139951385908992 worked 0.160412 seconds 
+Thread 139951377516288 worked 0.161495 seconds 
+
+8 threads
+Thread 139694625052416 worked 0.094564 seconds 
+Thread 139694616659712 worked 0.101862 seconds 
+Thread 139694608267008 worked 0.106036 seconds 
+Thread 139694599874304 worked 0.104195 seconds 
+Thread 139694591481600 worked 0.112845 seconds 
+Thread 139694583088896 worked 0.113223 seconds 
+Thread 139694574696192 worked 0.112693 seconds 
+Thread 139694566303488 worked 0.113800 seconds 
+
+-----------------------------
+
+filter (20x20)
+
+1 thread
+Thread 139674466699008 worked 1.725047 seconds 
+
+2 threads
+Thread 139671717558016 worked 1.662848 seconds 
+Thread 139671709165312 worked 1.655888 seconds 
+
+4 threads
+Thread 139747797210880 worked 1.616328 seconds 
+Thread 139747788818176 worked 1.616789 seconds 
+Thread 139747780425472 worked 1.609993 seconds 
+Thread 139747772032768 worked 1.595469 seconds 
+
+8 threads
+Thread 140410706958080 worked 1.635970 seconds 
+Thread 140410698565376 worked 1.634403 seconds 
+Thread 140410690172672 worked 1.630495 seconds 
+Thread 140410681779968 worked 1.624837 seconds 
+Thread 140410673387264 worked 1.637771 seconds 
+Thread 140410664994560 worked 1.622068 seconds 
+Thread 140410656601856 worked 1.629353 seconds 
+Thread 140410648209152 worked 1.596539 seconds 
+
+-----------------------------
+-----------------------------
+intervaled test
+
+filter (5x5)
+
+1 thread
+Thread 140640073492224 worked 0.110940 seconds 
+
+2 threads
+Thread 140440209307392 worked 0.162394 seconds 
+Thread 140440200914688 worked 0.165751 seconds 
+
+4 threads
+Thread 139656440116992 worked 0.096032 seconds 
+Thread 139656431724288 worked 0.100639 seconds 
+Thread 139656423331584 worked 0.100569 seconds 
+Thread 139656414938880 worked 0.102709 seconds 
+
+8 threads
+Thread 139794625775360 worked 0.097414 seconds 
+Thread 139794617382656 worked 0.108052 seconds 
+Thread 139794608989952 worked 0.109106 seconds 
+Thread 139794600597248 worked 0.109104 seconds 
+Thread 139794592204544 worked 0.116805 seconds 
+Thread 139794583811840 worked 0.115112 seconds 
+Thread 139794575419136 worked 0.114919 seconds 
+Thread 139794567026432 worked 0.114790 seconds 
+
+-----------------------------
+
+filter2 (20x20)
+
+1 thread
+Thread 140619003414272 worked 1.580292 seconds 
+
+2 threads
+Thread 140235039708928 worked 1.632160 seconds 
+Thread 140235031316224 worked 1.637898 seconds 
+
+4 threads
+Thread 140583346697984 worked 1.620219 seconds 
+Thread 140583338305280 worked 1.617373 seconds 
+Thread 140583329912576 worked 1.614959 seconds 
+Thread 140583321519872 worked 1.625857 seconds 
+
+8 threads
+Thread 140105629091584 worked 1.563540 seconds 
+Thread 140105620698880 worked 1.569169 seconds 
+Thread 140105612306176 worked 1.572828 seconds 
+Thread 140105603913472 worked 1.568103 seconds 
+Thread 140105595520768 worked 1.572731 seconds 
+Thread 140105587128064 worked 1.574182 seconds 
+Thread 140105578735360 worked 1.569448 seconds 
+Thread 140105570342656 worked 1.571377 seconds 

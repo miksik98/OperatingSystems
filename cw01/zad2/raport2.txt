@@ -1,0 +1,12 @@
+searching in deep
+Real:   3.50000 s   User:   0.010000 s   System: 1.320000 s
+searching in middle-deep
+Real:   0.090000 s   User:   0.030000 s   System: 0.060000 s
+searching in not deep
+Real:   0.010000 s   User:   0.000000 s   System: 0.010000 s
+reserving_blocks
+Real:   3.250000 s   User:   2.820000 s   System: 0.060000 s
+deleting_blocks
+Real:   0.010000 s   User:   0.000000 s   System: 0.010000 s
+adding and deleting_blocks
+Real:   0.010000 s   User:   0.000000 s   System: 0.000000 s

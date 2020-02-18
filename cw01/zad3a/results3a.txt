@@ -1,0 +1,39 @@
+static library
+searching in deep
+Real:   2.160000 s   User:   0.010000 s   System: 1.020000 s
+searching in middle-deep
+Real:   0.110000 s   User:   0.040000 s   System: 0.050000 s
+searching in not deep
+Real:   0.000000 s   User:   0.000000 s   System: 0.010000 s
+reserving_blocks
+Real:   3.120000 s   User:   2.810000 s   System: 0.040000 s
+deleting_blocks
+Real:   0.010000 s   User:   0.000000 s   System: 0.000000 s
+adding and deleting_blocks
+Real:   0.030000 s   User:   0.000000 s   System: 0.010000 s
+shared library
+searching in deep
+Real:   0.160000 s   User:   0.040000 s   System: 0.060000 s
+searching in middle-deep
+Real:   0.170000 s   User:   0.050000 s   System: 0.070000 s
+searching in not deep
+Real:   0.020000 s   User:   0.000000 s   System: 0.010000 s
+reserving_blocks
+Real:   3.110000 s   User:   2.800000 s   System: 0.040000 s
+deleting_blocks
+Real:   0.000000 s   User:   0.000000 s   System: 0.000000 s
+adding and deleting_blocks
+Real:   0.030000 s   User:   0.000000 s   System: 0.010000 s
+dynamic library
+searching in deep
+Real:   0.200000 s   User:   0.050000 s   System: 0.060000 s
+searching in middle-deep
+Real:   0.110000 s   User:   0.050000 s   System: 0.050000 s
+searching in not deep
+Real:   0.000000 s   User:   0.000000 s   System: 0.010000 s
+reserving_blocks
+Real:   3.200000 s   User:   2.850000 s   System: 0.020000 s
+deleting_blocks
+Real:   0.000000 s   User:   0.000000 s   System: 0.000000 s
+adding and deleting_blocks
+Real:   0.020000 s   User:   0.000000 s   System: 0.010000 s
